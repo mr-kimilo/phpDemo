@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>Hello everyone, This is my first php project.
